@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dr. Robert Wild's last legacie, or, A Poem sent with a guinney to Mr. B.D. for a New-years gift, December 30, 1678</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36197</idno>
+            <idno type="STC">Wing D1765A</idno>
+            <idno type="STC">ESTC R33457</idno>
+            <idno type="EEBO-CITATION">13356135</idno>
+            <idno type="OCLC">ocm 13356135</idno>
+            <idno type="VID">99242</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36197)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99242)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1548:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dr. Robert Wild's last legacie, or, A Poem sent with a guinney to Mr. B.D. for a New-years gift, December 30, 1678</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:99242:1"/>
+            <head>
+               <hi>D<hi rend="sup">r.</hi> Robert VVild's</hi> LAST LEGACIE, OR A POEM SENT With a <hi>Guinney</hi> to Mr. <hi>B. D.</hi> for a <hi>New-years-Gift.</hi> 
+               <date>December 30. 1678.</date>
+            </head>
+            <lg>
+               <l>SIr, ſince the <hi>Proclamation</hi> from the King,</l>
+               <l>For apprehending any Man, or Thing</l>
+               <l>Of whom we may be jealous<g ref="char:punc">▪</g> I have got</l>
+               <l>One able to Diſcover all the Plot<g ref="char:punc">▪</g>
+               </l>
+               <l>By the <hi>Great Croſs</hi> he weareth, you will ſee</l>
+               <l>Ground to ſuſpect, he <hi>Catholick</hi> may be.</l>
+               <l>Long <hi>hidden in a Corner</hi> he had been,</l>
+               <l>And loth I found him to be known or ſeen:</l>
+               <l>His <hi>Words but few,</hi> and thoſe in Latine too;</l>
+               <l>What you can make of him, I pray you do:</l>
+               <l>For though he ſets a <hi>Good Face</hi> on the Thing,</l>
+               <l>And pleads that he hath <hi>Count'nance from the King,</hi>
+               </l>
+               <l>(As too too many Counterfeits, you know</l>
+               <l>Delude and cheat the World by pleading ſo)</l>
+               <l>He is <hi>no Native;</hi> but from foreign Parts</l>
+               <l>Came over to bewitch our Engliſh hearts.</l>
+               <l>
+                  <hi>Seiz'd on as ſoon as landed,</hi> and convey'd</l>
+               <l>Into the <hi>Tower,</hi> and there a <hi>Priz'ner</hi> made;</l>
+               <l>There he was <hi>Tri'd,</hi> &amp; <hi>Caſt:</hi> Thence made <hi>Eſcape,</hi>
+               </l>
+               <l>And now goes <hi>Currant</hi> under <hi>Royal Shape:</hi>
+               </l>
+               <l>Yet you'l ſuſpect him by his <hi>Bluſhing ſo,</hi>
+               </l>
+               <l>For that's an Argument of <hi>Guilt,</hi> you know.</l>
+               <l>He <hi>goes</hi> by <hi>Name of Guinney;</hi> new-coin'd names,</l>
+               <l>And new-nam'd Coins are Jeſuitiſh Games;</l>
+               <l>Give me <hi>old Gold,</hi> with <hi>Engliſh names;</hi> like theſe</l>
+               <l>
+                  <hi>Crowns, Nobles, Angels,</hi> and <hi>Jacobuſſes.</hi>
+               </l>
+               <pb facs="tcp:99242:2" rendition="simple:additions"/>
+               <l>I muſt not be miſconſtru'd, let him wear</l>
+               <l>The <hi>Image</hi> of the <hi>Lawrel</hi> he doth bear,</l>
+               <l>And never <hi>given to change;</hi> may no Diſaſter</l>
+               <l>Ever prevail to make him <hi>change his Maſter<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>For I prefer, and ſo all Subjects True,</l>
+               <l>An <hi>Old Jacobus</hi> far before <hi>A New:</hi>
+               </l>
+               <l>It is the <hi>Matter,</hi> not the <hi>Form</hi> I charge;</l>
+               <l>And here in his <hi>Impeachment</hi> might be large,</l>
+               <l>As far as from one <hi>Indie</hi> to the other,</l>
+               <l>Againſt both Gold and Silver his pale Brother.</l>
+               <l>We find St. <hi>Peter</hi> in the daies of Old</l>
+               <l>(That was the <hi>Golden-Age</hi> that hated <hi>Gold;</hi>)</l>
+               <l>Had neither Gold nor Silver, but when they</l>
+               <l>Uſurp'd the Chair, they baniſh'd Faith away:</l>
+               <l>And when theſe once forſake the <hi>Tripple Crown,</hi>
+               </l>
+               <l>Both <hi>Pope</hi> and <hi>Popery</hi> muſt tumble down.</l>
+               <l>'Tis theſe ſet men together by the Ears,</l>
+               <l>Put Difference 'twixt the <hi>Commons</hi> and the <hi>Peers:</hi>
+               </l>
+               <l>Theſe have the great Command at <hi>Sea &amp; Land,</hi>
+               </l>
+               <l>They <hi>Raiſe the Army,</hi> they can it <hi>Disband:</hi>
+               </l>
+               <l>They <hi>Hatch'd</hi> and <hi>Brooded</hi> the late curſt Intent,</l>
+               <l>To <hi>Kill the King,</hi> and <hi>Change the Government.</hi>
+               </l>
+               <l>For them — vote, by <hi>them</hi> they Riſe,</l>
+               <l>'Tis Love to <hi>them,</hi> upholds <hi>Pluralities.</hi>
+               </l>
+               <l>For them the <hi>Lawyers</hi> brawl; <hi>They</hi> fool the <hi>Wiſe:</hi>
+               </l>
+               <l>They caſt <hi>a Miſt</hi> before the <hi>Judge</hi>'s Fyes:</l>
+               <l>
+                  <hi>They</hi> pay the <hi>Penſioner,</hi> the <hi>Pimp,</hi> the <hi>Miſs:</hi>
+               </l>
+               <l>They brought the <hi>Treaſurer</hi> to <hi>what he is.</hi>
+               </l>
+               <l>If they don't fetch him off, off flies his <hi>Head.</hi>
+               </l>
+               <l>And who can help't, They <hi>cannot raiſe the Dead.</hi>
+               </l>
+               <l>Their Charge is infinite, I muſt give over,</l>
+               <l>Let <hi>Praunce</hi> the <hi>Silver-ſmith</hi> the reſt Diſcover.</l>
+               <l>
+                  <hi>Mean time, do you Sir</hi> under Lock and Key</l>
+               <l>
+                  <hi>Keep</hi> Guinney <hi>ſafe, for fear he ſteal away,</hi>
+               </l>
+               <l>
+                  <hi>For if but once he can get out of Door,</hi>
+               </l>
+               <l>Twenty to one, <hi>you never ſee him more.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> A. B.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
